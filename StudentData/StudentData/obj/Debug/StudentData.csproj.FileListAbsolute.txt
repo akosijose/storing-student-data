@@ -1,0 +1,6 @@
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.exe.config
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.exe
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.pdb
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.csprojResolveAssemblyReference.cache
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.exe
+c:\users\akosijose\documents\visual studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.pdb
